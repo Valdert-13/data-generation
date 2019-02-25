@@ -10,3 +10,6 @@ __pycache__/random_walk.cpython-36.pyc
 .vs/config/applicationhost.config
 *.sqlite
 .vs/data-generation/v15/.suo
+__pycache__/die.cpython-37.pyc
+.vs/slnx.sqlite
+.vs/data-generation/v15/.suo
