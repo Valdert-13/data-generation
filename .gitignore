@@ -1,15 +1,5 @@
 
-__pycache__/die.cpython-36.pyc
-__pycache__/random_walk.cpython-36.pyc
-.vs/VSWorkspaceState.json
-.vs/VSWorkspaceState.json
-.vs/tasks.vs.json
-.vs/slnx.sqlite
-*.json
-.vs/data-generation/v15/.suo
-.vs/config/applicationhost.config
-*.sqlite
-.vs/data-generation/v15/.suo
 __pycache__/die.cpython-37.pyc
-.vs/slnx.sqlite
-.vs/data-generation/v15/.suo
+__pycache__/country_code.cpython-37.pyc
+.vs/VSWorkspaceState.json
+.vs/config/applicationhost.config
